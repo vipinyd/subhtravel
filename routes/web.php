@@ -16,3 +16,7 @@ use App\Http\Controllers\HomeController;
 Route::get('/', [HomeController::class, 'home']);
 Route::get('/about-us', [HomeController::class, 'aboutUs']);
 Route::get('/contact-us', [HomeController::class, 'contactUs']);
+Route::get('/tour-details-chardham', [HomeController::class, 'TourDetailsCharDham'])->name('tour-details-chardham');
+Route::get('/tour-details-prayagraj', [HomeController::class, 'TourDetailsPrayagraj'])->name('tour-details-prayagraj');
+Route::get('/tour-details-varanasi', [HomeController::class, 'TourDetailsVaranasi'])->name('tour-details-varanasi');
+Route::get('/tour-details-ayodhya', [HomeController::class, 'TourDetailsAyodhya'])->name('tour-details-ayodhya');

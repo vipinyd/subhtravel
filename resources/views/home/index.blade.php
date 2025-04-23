@@ -65,7 +65,7 @@
                 <hr>
                 <div class="cs_card_action">
                   <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">$4500</span>
-                  <a href="tour-details.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
+                  <a href="{{ route('tour-details-chardham') }}" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
                 </div>
               </div>
             </div>
@@ -82,7 +82,7 @@
                 <hr>
                 <div class="cs_card_action">
                   <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">$4500</span>
-                  <a href="tour-details.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
+                  <a href="{{ route('tour-details-varanasi') }}" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
                 </div>
               </div>
             </div>
@@ -99,7 +99,7 @@
                 <hr>
                 <div class="cs_card_action">
                   <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">$4500</span>
-                  <a href="tour-details.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
+                  <a href="{{ route('tour-details-prayagraj') }}" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
                 </div>
               </div>
             </div>
@@ -116,7 +116,7 @@
                 <hr>
                 <div class="cs_card_action">
                   <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">$4500</span>
-                  <a href="tour-details.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
+                  <a href="{{ route('tour-details-ayodhya') }}" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
                 </div>
               </div>
             </div>

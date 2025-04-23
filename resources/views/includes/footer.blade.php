@@ -21,7 +21,7 @@
         <div class="cs_footer_main_col">
           <div class="cs_footer_widget">
             <div class="cs_text_widget">
-              <img src="assets/images/footer_logo.svg" alt="Logo">
+              <img src="assets/images/logo1.jpg" class='f-logo' alt="Logo">
             </div>
             <ul class="cs_contact_widget mb-0">
               <li>

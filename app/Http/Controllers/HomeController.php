@@ -21,4 +21,18 @@ class HomeController extends Controller
 
         return view('home.contact');
     }
+
+
+    public function TourDetailsCharDham(){
+        return view('home.tour-details-chardham');
+    }
+    public function TourDetailsPrayagraj(){
+        return view('home.tour-details-prayagraj');
+    }
+    public function TourDetailsVaranasi(){
+        return view('home.tour-details-varanasi');
+    }
+    public function TourDetailsAyodhya(){
+        return view('home.tour-details-ayodhya');
+    }
 }

@@ -6497,6 +6497,13 @@ hr {
   text-align:center;
   display: inline-block;
 }
+/* logo */
+.logo_main_custom{
+  height: 100px;
+  width: 114px;
+  /* background-color: black; */
+  object-fit: cover;
+}
 @media (max-width: 991px) {
   .cs_card.cs_style_1 {
     padding-top: 120%;
@@ -7161,6 +7168,12 @@ hr {
   .cs_google_map {
     height: 450px;
   }
+}
+
+.f-logo{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
 }
 .cs_google_map iframe {
   height: 100%;
