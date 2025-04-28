@@ -55,9 +55,9 @@
         <div class="row cs_gap_y_30">
           <div class="col-lg-3">
             <div class="cs_card cs_style_3 cs_white_bg">
-              <a href="tour-details.html" class="cs_card_thumb position-relative cs_zoom">
+              <a href="{{ route('tour-details-chardham') }}" class="cs_card_thumb position-relative cs_zoom">
                 <img src="assets/images/chardham.webp" alt="Package Thumb" class="cs_zoom_in cs_img">
-                <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">4 Day 3 Night</div>
+                <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">10 Day 9 Night</div>
               </a>
               <div class="cs_card_content">
                 <h2 class="cs_card_title cs_fs_24 cs_semibold"><a href="tour-details.html">CharDham</a></h2>
@@ -72,7 +72,7 @@
           </div>
           <div class="col-lg-3">
             <div class="cs_card cs_style_3 cs_white_bg">
-              <a href="tour-details.html" class="cs_card_thumb position-relative cs_zoom">
+              <a href="{{ route('tour-details-varanasi') }}" class="cs_card_thumb position-relative cs_zoom">
                 <img src="assets/images/varanasi.jpg" alt="Package Thumb" class="cs_zoom_in cs_img">
                 <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">4 Day 3 Night</div>
               </a>
@@ -89,7 +89,7 @@
           </div>
           <div class="col-lg-3">
             <div class="cs_card cs_style_3 cs_white_bg">
-              <a href="tour-details.html" class="cs_card_thumb position-relative cs_zoom">
+              <a href="{{ route('tour-details-prayagraj') }}" class="cs_card_thumb position-relative cs_zoom">
                 <img src="assets/images/prayagraj.jpeg" alt="Package Thumb" class="cs_zoom_in cs_img">
                 <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">4 Day 3 Night</div>
               </a>
@@ -106,7 +106,7 @@
           </div>
           <div class="col-lg-3">
             <div class="cs_card cs_style_3 cs_white_bg">
-              <a href="tour-details.html" class="cs_card_thumb position-relative cs_zoom">
+              <a href="{{ route('tour-details-ayodhya') }}" class="cs_card_thumb position-relative cs_zoom">
                 <img src="assets/images/ayodhya.avif" alt="Package Thumb" class="cs_zoom_in cs_img">
                 <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">4 Day 3 Night</div>
               </a>

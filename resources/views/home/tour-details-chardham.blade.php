@@ -38,10 +38,10 @@
     <div class="row cs_gap_y_50">
       <div class="col-lg-8">
         <div class="cs_post_details">
-          <h2 class="cs_tour_details_title">Iceberg, Greenland <small>$1200/<span>Day Night tour</span></small></h2>
+          <h2 class="cs_tour_details_title">Chardham <small>$1200/<span>Day Night tour</span></small></h2>
           <img src="assets/images/tour_details.jpeg" alt="Tour Thumb">
-          <h3>Marriage And Greenland Have More In Common Than You Think Greenland Have More</h3>
-          <p>Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur  ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus condimentum rhon sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blanditvel, luctus pulvinar, hendrerit id,lorem. Maecenas nec odio ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit</p>
+          <h3>Uttarakhand, also known as Devbhoomi or the Land of Gods, is home to numerous temples and welcomes devotees all year round.</h3>
+          <p>Chardham yatra tour starting from Haridwar is of 10 days. Yamunotri is the first destination followed by Gangotri, onto Kedarnath, and finally ends at Badrinath.</p>
          <hr>
         </div>
 
