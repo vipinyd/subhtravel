@@ -25,7 +25,7 @@
   <section class="cs_page_header cs_bg_filed cs_primary_bg" data-src="assets/images/chardham.jpg">
     <div class="container">
       <div class="cs_page_header_text text-center">
-        <h1 class="cs_page_title cs_fs_70 cs_white_color cs_bold">Chardham Yatra</h1>
+        <h1 class="cs_page_title cs_fs_70 cs_white_color cs_bold">Char Dham Yatra 2025</h1>
         {{-- <p class="cs_page_subtitle cs_fs_24 mb-0">Modern & Beautiful Travel Theme</p> --}}
       </div>
     </div>
@@ -38,10 +38,10 @@
     <div class="row cs_gap_y_50">
       <div class="col-lg-8">
         <div class="cs_post_details">
-          <h2 class="cs_tour_details_title">Chardham <small>$1200/<span>Day Night tour</span></small></h2>
+          <h2 class="cs_tour_details_title">Chardham <small>Rs 23,000/<span>Day Night tour</span></small></h2>
           <img src="assets/images/tour_details.jpeg" alt="Tour Thumb">
-          <h3>Uttarakhand, also known as Devbhoomi or the Land of Gods, is home to numerous temples and welcomes devotees all year round.</h3>
-          <p>Chardham yatra tour starting from Haridwar is of 10 days. Yamunotri is the first destination followed by Gangotri, onto Kedarnath, and finally ends at Badrinath.</p>
+          <h3>About Char Dham Yatra.</h3>
+          <p> <strong>Char Dham Yatra</strong>  is a sacred journey to four holy temples: Yamunotri, Gangotri, Kedarnath, and Badrinath, located in the beautiful Himalayas. These places are believed to wash away sins and bring peace and salvation. The yatra is perfect for families and spiritual seekers, offering divine blessings and stunning natural views. The best time to visit is from April to October. Start your Char Dham Yatra and feel the divine blessings!</p>
          <hr>
         </div>
 

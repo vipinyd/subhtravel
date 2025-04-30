@@ -1,6 +1,6 @@
  <!-- Start footer -->
  <footer class="cs_footer cs_style_1 cs_white_color cs_bg_filed cs_primary_bg" data-src="assets/images/footer_bg.jpeg">
-    <div class="cs_newsletter_1_wrap">
+    <div class="cs_newsletter_1_wrap" style="display: none;">
       <div class="container-fluid">
         <div class="cs_newsletter cs_style_1 cs_accent_bg">
           <div class="cs_newsletter_icon"><img src="assets/images/icons/envlop.png" alt="Icon"></div>
@@ -21,7 +21,7 @@
         <div class="cs_footer_main_col">
           <div class="cs_footer_widget">
             <div class="cs_text_widget">
-              <img src="assets/images/logo1.jpg" class='f-logo' alt="Logo">
+              <img src="assets/images/footer_logo.svg" alt="Logo">
             </div>
             <ul class="cs_contact_widget mb-0">
               <li>
@@ -68,14 +68,9 @@
           <div class="cs_footer_widget">
             <h3 class="cs_footer_widget_title cs_fs_24 cs_semibold cs_white_color">Contact Info</h3>
             <ul class="cs_menu_widget">
-              <li><a href="destination-details.html">Emirates, United Arabian</a></li>
-              <li><a href="destination-details.html">Emirates, United Arabian</a></li>
-              <li><a href="destination-details.html">New York City, USA</a></li>
-              <li><a href="destination-details.html">New York City, USA</a></li>
-              <li><a href="destination-details.html">One Bridge, Belguim</a></li>
-              <li><a href="destination-details.html">One Bridge, Belguim</a></li>
-              <li><a href="destination-details.html">Golden Frame, Dubai</a></li>
-              <li><a href="destination-details.html">Golden Frame, Dubai</a></li>
+              <li><a href="destination-details.html">Lucknow, Uttar Pradesh</a></li>
+              <li><a href="destination-details.html">Noida, Uttar Pradesh</a></li>
+            
             </ul>
           </div>
         </div>

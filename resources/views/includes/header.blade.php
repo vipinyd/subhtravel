@@ -29,7 +29,7 @@
         <div class="cs_main_header_in">
           <div class="cs_main_header_left">
             <a class="cs_site_branding" href="{{ url('/') }}">
-              <img class='logo_main_custom' src="assets/images/logo1.jpg" alt="Logo">
+              <img  src="assets/images/logo_2.svg" alt="Logo">
             </a>
           </div>
           <div class="cs_main_header_center">

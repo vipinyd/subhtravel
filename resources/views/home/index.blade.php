@@ -1,6 +1,11 @@
 @extends('layouts.app')
 
-
+<style>
+  .cs_btn{
+    padding: 10px 20px !important;
+    font-size: 11px !important;
+  }
+</style>
 @section('content')
      <!-- Start Hero Section -->
      <section class="cs_hero cs_style_2 cs_accent_bg_1">
@@ -8,7 +13,7 @@
         <div class="cs_hero_img"><img src="assets/images/hero_2.png" alt="Hero Thumb"></div>
         <div class="cs_hero_text">
           <h3 class="cs_hero_mini_title cs_fs_24 cs_semibold cs_accent_color wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Find Next PlaceTo Visit</h3>
-          <h1 class="cs_hero_title cs_fs_85 cs_semibold">Tour Travel & Adventure Camping</h1>
+          <h1 class="cs_hero_title cs_fs_85 cs_semibold">Char Dham Yatra 2025</h1>
           <p class="cs_hero_desc cs_fs_18">Denouncing pleasure and praising pain was born and will give you complete great explorer of the truth the master-builder.</p>
           <div class="cs_button_group">
             <a href="about.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold">
@@ -57,14 +62,14 @@
             <div class="cs_card cs_style_3 cs_white_bg">
               <a href="{{ route('tour-details-chardham') }}" class="cs_card_thumb position-relative cs_zoom">
                 <img src="assets/images/chardham.webp" alt="Package Thumb" class="cs_zoom_in cs_img">
-                <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">10 Day 9 Night</div>
+                <div class="cs_package_badge cs_fs_18 cs_semibold cs_primary_color cs_primary_font position-absolute">9 Day 8 Night</div>
               </a>
               <div class="cs_card_content">
                 <h2 class="cs_card_title cs_fs_24 cs_semibold"><a href="tour-details.html">CharDham</a></h2>
                 <p class="cs_card_subtitle mb-0 CS_text"><i class="fa-solid fa-globe cs_accent_color  px-1"></i>Four Shrines, One Spiritual Awakening</p>
                 <hr>
                 <div class="cs_card_action">
-                  <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">$4500</span>
+                  <span class="cs_card_price cs_fs_24 cs_semibold cs_primary_color cs_primary_font mb-0">Rs 23,000</span>
                   <a href="{{ route('tour-details-chardham') }}" class="cs_btn cs_style_1 cs_fs_18 cs_semibold"> Book Now</a>
                 </div>
               </div>
@@ -522,7 +527,7 @@
     </section>
     <!-- End Testimonial Section -->
     <!-- Start Blog Section -->
-    <section class="cs_accent_bg_1">
+    <section class="cs_accent_bg_1" style="display: none">
       <div class="cs_height_135 cs_height_lg_75"></div>
       <div class="container">
         <div class="cs_section_heading cs_style_1 text-center">
